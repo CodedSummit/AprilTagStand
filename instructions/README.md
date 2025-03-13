@@ -1,6 +1,6 @@
-![Full AprilTag Stand](fullapriltag.jpg)
 
 # How to make your own AprilTag stand 
+![Full AprilTag Stand](fullapriltag.jpg)
 
 ## Designed by the coded summit
 
