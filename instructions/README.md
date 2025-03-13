@@ -1,4 +1,4 @@
-#  ![][image1]
+![Full AprilTag Stand](fullapriltag.jpg)
 
 # How to make your own AprilTag stand 
 
