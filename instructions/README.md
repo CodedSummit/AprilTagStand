@@ -26,11 +26,15 @@ Overall length 2.5’’
 (just before you start gluing you should bore the hole in middle on the holder back, enough for the carriage bolt to sit flushed)
 
 You shouldn’t worry about gluing the base front,bottom, and side brace to make the feet when it's time to glue those,I recommend doing this step first because the next step would need them to be glued, but when you’re  adding the brace you should do it at the same time as the clamp plate which is the next step .   
-
+![bottom](bottom.jpg)
 
 Next is to add the brace x4, and clamp plate, add glue to the pockets then brace’s then immediately clamp with the carriage bolt and wingnut to the feet with the pipe that you should've already cut, this is so that any misalignment from the braces can be avoided.
+![clamp board](clampboard.jpg)
 
 After the glue is settled you should start on the head, and do the same steps but with the holder back add glue to the pockets, add the braces, then immediately clamp them to the pipe so that any misalignment can be avoided from the braces.
+![top part](top.jpg)
+
+
 
 
 
